@@ -3,5 +3,5 @@ layout: slide
 title: "Welcometo our second slide!"
 
 ---
-Your text
+Halinka Malinka
 Use the left arrow to go back!
